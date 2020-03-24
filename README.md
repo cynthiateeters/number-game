@@ -1,6 +1,6 @@
 # number-game
 
-## S simple number guessing game in JavaScript
+## Simple number guessing game in JavaScript
 
 ### Resources
 
